@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553600591461.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ACD79691",
+    "lastKnownWriteTime" : 1553684301,
+    "last_content_update" : 1553684301991,
+    "path" : "G:/Mi unidad/FORMACION/COURSERA/Data Science Specialization - John Hopkins/Getting and Cleaning Data/Getting and Cleaning Data - course project/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "notebook_format" : "pdf_document",
+        "scrollLine" : "30"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

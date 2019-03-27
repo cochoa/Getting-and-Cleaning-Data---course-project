@@ -1,0 +1,111 @@
+DATA CODEBOOK - Getting and Cleaning Data - Course Project
+
+Codes for dt3 dataframe.
+
+activity	position:1
+		Factor w/ 5 levels
+		Activity performed while using the biometric measurement device
+		1. WALKING
+		2. WALKING_UPSTAIRS
+		3. WALKING_DOWNSTAIRS
+		4. SITTING
+		5. STANDING
+		6. LAYING
+
+subject		position:2
+		Integer: 1 to 30	unique id
+		Individual participating in the experiment
+
+(measurement variables)
+tbodyaccmeanx
+tbodyaccmeany
+tbodyaccmeanz
+tbodyaccstdx
+tbodyaccstdy
+tbodyaccstdz
+tgravityaccmeanx
+tgravityaccmeany
+tgravityaccmeanz
+tgravityaccstdx
+tgravityaccstdy
+tgravityaccstdz
+tbodyaccjerkmeanx
+tbodyaccjerkmeany
+tbodyaccjerkmeanz
+tbodyaccjerkstdx
+tbodyaccjerkstdy
+tbodyaccjerkstdz
+tbodygyromeanx
+tbodygyromeany
+tbodygyromeanz
+tbodygyrostdx
+tbodygyrostdy
+tbodygyrostdz
+tbodygyrojerkmeanx
+tbodygyrojerkmeany
+tbodygyrojerkmeanz
+tbodygyrojerkstdx
+tbodygyrojerkstdy
+tbodygyrojerkstdz
+tbodyaccmagmean
+tbodyaccmagstd
+tgravityaccmagmean
+tgravityaccmagstd
+tbodyaccjerkmagmean
+tbodyaccjerkmagstd
+tbodygyromagmean
+tbodygyromagstd
+tbodygyrojerkmagmean
+tbodygyrojerkmagstd
+fbodyaccmeanx
+fbodyaccmeany
+fbodyaccmeanz
+fbodyaccstdx
+fbodyaccstdy
+fbodyaccstdz
+fbodyaccmeanfreqx
+fbodyaccmeanfreqy
+fbodyaccmeanfreqz
+fbodyaccjerkmeanx
+fbodyaccjerkmeany
+fbodyaccjerkmeanz
+fbodyaccjerkstdx
+fbodyaccjerkstdy
+fbodyaccjerkstdz
+fbodyaccjerkmeanfreqx
+fbodyaccjerkmeanfreqy
+fbodyaccjerkmeanfreqz
+fbodygyromeanx
+fbodygyromeany
+fbodygyromeanz
+fbodygyrostdx
+fbodygyrostdy
+fbodygyrostdz
+fbodygyromeanfreqx
+fbodygyromeanfreqy
+fbodygyromeanfreqz
+fbodyaccmagmean
+fbodyaccmagstd
+fbodyaccmagmeanfreq
+fbodybodyaccjerkmagmean
+fbodybodyaccjerkmagstd
+fbodybodyaccjerkmagmeanfreq
+fbodybodygyromagmean
+fbodybodygyromagstd
+fbodybodygyromagmeanfreq
+fbodybodygyrojerkmagmean
+fbodybodygyrojerkmagstd
+fbodybodygyrojerkmagmeanfreq
+angletbodyaccmeangravity
+angletbodyaccjerkmeangravitymean
+angletbodygyromeangravitymean
+angletbodygyrojerkmeangravitymean
+anglexgravitymean
+angleygravitymean
+anglezgravitymean
+
+			position: 3 to 88
+			Numeric: -1 to 1
+			Each mean and std measurements
+
+
